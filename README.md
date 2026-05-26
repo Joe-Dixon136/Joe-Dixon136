@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey! I'm Joe Dixon
+<a href="[https://linkedin.com](https://www.linkedin.com/in/joseph-dixon-923ab2245/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Joe-Dixon136/Joe-Dixon136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction - Remove this afterwards]
 
-Here are some ideas to get you started:
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+<div>
+<a href="https://www.credly.com/badges/ce4c5577-7332-4102-a44d-4c830b4cb803/public_url">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+</div>
