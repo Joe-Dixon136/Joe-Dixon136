@@ -15,3 +15,7 @@ I am currently a cybersecurity student at UNCC with an interest in technology an
   <img src="https://custom-icon-badges.demolab.com/badge/-AWS%20CCP-FF9900?&style=for-the-badge&logo=AWS&logoColor=white" />
 </a>
 </div>
+
+## Projects
+### [AWS Security Monitoring & Incident Detection](https://github.com/Joe-Dixon136/aws-cloud-detection-lab/blob/main/README.md)
+* **Description:** Simulated active network attacks (including Nmap scanning and SSH brute-force attempts) to evaluate AWS GuardDuty detection capabilities and configure automated CloudWatch alerting.
