@@ -1,7 +1,7 @@
-# Hey! I'm Joe Dixon
+# Hey! I'm Joe👋
 <a href="[https://linkedin.com](https://www.linkedin.com/in/joseph-dixon-923ab2245/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently a cybersecurity student at UNCC with an interest in technology and problem solving
+I am a cybersecurity student and aspiring SOC Analyst with an interest in threat detection, information security and cloud computing
 
 ## Certifications
 <div>
