@@ -18,4 +18,7 @@ I am currently a cybersecurity student at UNCC with an interest in technology an
 
 ## Projects and Labs
 ### [AWS Security Monitoring & Incident Detection](https://github.com/Joe-Dixon136/aws-cloud-detection-lab/blob/main/README.md)
-*Simulated active network attacks (including Nmap scanning and SSH brute-force attempts) to evaluate AWS GuardDuty detection capabilities and configure automated CloudWatch alerting.*
+*Simulated active network attacks (including Nmap scanning and SSH brute-force attempts) to evaluate AWS GuardDuty detection capabilities and configure automated CloudWatch alerting*
+
+### [ActiveMQ LockBit Threat Analysis](https://github.com/Joe-Dixon136/ActiveMQ-LockBit-Threat-Analysis/blob/main/README.md)
+*Splunk-based incident response analysis of a simulated Apache ActiveMQ RCE and LockBit ransomware attack on an EC2 Instance*
