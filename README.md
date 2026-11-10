@@ -22,3 +22,6 @@ I am a cybersecurity student and aspiring SOC Analyst with an interest in threat
 
 ### [ActiveMQ LockBit Threat Analysis](https://github.com/Joe-Dixon136/ActiveMQ-LockBit-Threat-Analysis/blob/main/README.md)
 *Splunk-based incident response analysis of a simulated Apache ActiveMQ RCE and LockBit ransomware attack on an EC2 Instance*
+
+### [File Integrity Monitor (Python3)](https://github.com/Joe-Dixon136/file-integrity-monitor)
+*A simple CLI file integrity monitor built in Python with chunked streaming and native GUI path selection*
